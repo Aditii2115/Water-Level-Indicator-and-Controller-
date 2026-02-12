@@ -35,4 +35,28 @@ Controller Circuit
 Software Tools
 - Quartus II
 - ModelSim
-- Verilog HDL
+
+Methodology
+1. Design system architecture and select components.
+2. Place conductive probes at different tank levels.
+3. Implement indicator and controller logic in Verilog.
+4. Simulate the design using ModelSim.
+5. Build and test the circuit on a breadboard
+
+Simulation
+The Verilog design was simulated in ModelSim to verify:
+- BCD-to-7-segment display mapping
+- Pump control logic
+- Correct response to water-level inputs
+
+Applications
+- Residential water tanks
+- Irrigation systems
+- Industrial storage tanks
+- High-rise building water management
+
+Future Scope
+- Relay-based automatic pump control
+- Wireless monitoring system
+- LCD-based display
+- Multi-tank monitoring system 
