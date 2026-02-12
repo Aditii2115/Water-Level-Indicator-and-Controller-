@@ -41,7 +41,7 @@ Methodology
 2. Place conductive probes at different tank levels.
 3. Implement indicator and controller logic in Verilog.
 4. Simulate the design using ModelSim.
-5. Build and test the circuit on a breadboard
+5. Build and test the circuit on a breadboard.
 
 Simulation
 The Verilog design was simulated in ModelSim to verify:
